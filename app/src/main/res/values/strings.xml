@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Trabalho</string>
+
+    <string name="marcas">Marcas</string>
+    <string name="marca">Marca</string>
+    <string name="cadastrarMarca">Cadastrar Marca</string>
+    <string name="listarMarcas">Listar Marcas</string>
+    <string name="atualizarMarca">Atualizar Marca</string>
+
+
+    <string name="celulares">Celulares</string>
+    <string name="listarCelulares">Listar Celulares</string>
+    <string name="cadastrarCelular">Cadastrar Celular</string>
+    <string name="atualizarCelular">Atualizar Celular</string>
+    <string name="modelo">Modelo</string>
+
+    <string name="add">Adicionar</string>
+    <string name="list">Lista</string>
+    <string name="editar">Editar</string>
+    <string name="excluir">Excluir</string>
+
+
+</resources>
